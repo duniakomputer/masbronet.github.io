@@ -1,1 +1,1 @@
-# [masbronet.github.io](https://github.com/duniakomputer/masbronet.github.io)
+# [masbronet.github.io](https://masbronet.github.io)
